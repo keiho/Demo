@@ -1,0 +1,104 @@
+7.28.21	Deploying Plugins
+7.28.21	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+7.28.21	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+7.28.21	Checking assembly 'Demo.Plugins.dll' for plugins
+7.28.21	3 plugin(s) found!
+7.28.21	Registering Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+7.28.24	Registering Type 'Demo.Plugins.SamplePlugin'
+7.37.31	Deploying Plugins
+7.37.31	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+7.37.31	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+7.37.31	Checking assembly 'Demo.Plugins.dll' for plugins
+7.37.31	3 plugin(s) found!
+7.37.32	Checking for orphaned PluginTypes: 'Demo.Plugins' 
+7.37.32	Not Found, deleting: Demo.Plugins.SamplePlugin
+7.37.32	Deleting PluginType 'Demo.Plugins.SamplePlugin'
+7.37.35	Updating Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+7.37.37	Registering Type 'SamplePlugin.PluginWithTelemetry'
+7.40.16	Deploying Plugins
+7.40.16	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+7.40.16	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+7.40.16	Checking assembly 'Demo.Plugins.dll' for plugins
+7.40.16	3 plugin(s) found!
+7.40.16	Registering Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+7.40.17	Registering Type 'SamplePlugin.PluginWithTelemetry'
+7.43.23	Deploying Plugins
+7.43.23	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+7.43.23	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+7.43.23	Checking assembly 'Demo.Plugins.dll' for plugins
+7.43.24	3 plugin(s) found!
+7.43.24	Registering Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+7.43.25	Registering Type 'SamplePlugin.PluginWithTelemetry'
+7.44.18	Deploying Plugins
+7.44.18	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+7.44.19	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+7.44.19	Checking assembly 'Demo.Plugins.dll' for plugins
+7.44.19	3 plugin(s) found!
+7.44.19	Checking for orphaned PluginTypes: 'Demo.Plugins' 
+7.44.19	Updating Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+7.44.21	Updating Type 'SamplePlugin.PluginWithTelemetry'
+7.47.50	Deploying Plugins
+7.47.50	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+7.47.50	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+7.47.50	Checking assembly 'Demo.Plugins.dll' for plugins
+7.47.50	3 plugin(s) found!
+7.47.50	Checking for orphaned PluginTypes: 'Demo.Plugins' 
+7.47.50	Updating Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+7.47.51	Updating Type 'SamplePlugin.PluginWithTelemetry'
+7.49.03	Deploying Plugins
+7.49.03	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+7.49.03	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+7.49.03	Checking assembly 'Demo.Plugins.dll' for plugins
+7.49.03	3 plugin(s) found!
+7.49.03	Registering Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+7.49.05	Registering Type 'SamplePlugin.PluginWithTelemetry'
+7.54.18	Deploying Plugins
+7.54.18	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+7.54.18	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+7.54.18	Checking assembly 'Demo.Plugins.dll' for plugins
+7.54.18	3 plugin(s) found!
+7.54.18	Checking for orphaned PluginTypes: 'Demo.Plugins' 
+7.54.18	Updating Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+7.54.21	Updating Type 'SamplePlugin.PluginWithTelemetry'
+7.54.22	Registering Step 'Sample PostOp Account Create'
+7.54.23	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+7.54.23	Processed 1 config(s)
+7.59.19	Deploying Plugins
+7.59.19	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+7.59.19	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+7.59.19	Checking assembly 'Demo.Plugins.dll' for plugins
+7.59.19	3 plugin(s) found!
+7.59.19	Checking for orphaned PluginTypes: 'Demo.Plugins' 
+7.59.19	Updating Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+7.59.21	Updating Type 'SamplePlugin.PluginWithTelemetry'
+7.59.22	Updating Step 'Sample PostOp Account Create'
+7.59.23	Registering Step 'Sample PostOp Account Update'
+7.59.24	Registering Step 'Sample PreOp Entity Update'
+7.59.25	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+7.59.25	Processed 1 config(s)
+8.10.24	Deploying Plugins
+8.10.24	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+8.10.24	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+8.10.24	Checking assembly 'Demo.Plugins.dll' for plugins
+8.10.24	3 plugin(s) found!
+8.10.24	Checking for orphaned PluginTypes: 'Demo.Plugins' 
+8.10.25	Updating Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+8.10.26	Updating Type 'SamplePlugin.PluginWithTelemetry'
+8.10.27	Updating Step 'Sample PostOp Account Create'
+8.10.28	Updating Step 'Sample PostOp Account Update'
+8.10.29	Updating Step 'Sample PreOp Entity Update'
+8.10.29	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+8.10.29	Processed 1 config(s)
+9.12.21	Deploying Plugins
+9.12.21	Searching for plugin config in 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\spkl\..'
+9.12.21	Using Config 'C:\Users\mikko\source\repos\Demo\Demo.Plugins'
+9.12.21	Checking assembly 'Demo.Plugins.dll' for plugins
+9.12.21	3 plugin(s) found!
+9.12.22	Checking for orphaned PluginTypes: 'Demo.Plugins' 
+9.12.22	Updating Plugin 'Demo.Plugins' from 'C:\Users\mikko\source\repos\Demo\Demo.Plugins\bin\Debug\Demo.Plugins.dll'
+9.12.24	Updating Type 'SamplePlugin.PluginWithTelemetry'
+9.12.26	Updating Step 'Sample PostOp Account Create'
+9.12.28	Updating Step 'Sample PostOp Account Update'
+9.12.29	Updating Step 'Sample PreOp Entity Update'
+9.12.30	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+9.12.30	Processed 1 config(s)
